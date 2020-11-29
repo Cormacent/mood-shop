@@ -7,7 +7,7 @@
 body {
   background: rgba(190, 195, 202, 0.3);
   display: flex;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace; /* RESET FONT */
 }
 
 *,
@@ -188,7 +188,10 @@ header .title h4 {
     font-size: 1.5rem;
   }
 
-  /* HEADER CART */
+  main{
+    height: 100vh;
+  }
+
   .cart-section {
     background-color: white;
     display: block;
@@ -202,7 +205,6 @@ header .title h4 {
     display: none;
   }
 
-  /* SIDE CART  */
   .cart-content h4 {
     font-size: 1.5rem;
   }
@@ -211,16 +213,15 @@ header .title h4 {
     opacity: 0.3;
   }
 
-  /* SIDE NAV */
   .content nav {
     display: flex;
     flex-direction: column;
     background-color: white;
+    height: auto;
   }
 
-  /* MAIN CONTENT */
   .card-fill .item {
     margin: 10px;
-    width: 300px;
+    width: 250px;
   }
 }
