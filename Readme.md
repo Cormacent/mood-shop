@@ -10,8 +10,8 @@ Silahkan anda mengcopy project ini untuk pembelajaran dengan meng-cloning dari g
  - kemudian drag and drop index.html 
 
 ## Tampilan
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+### Beranda
+![Github](https://github.com/Cormacent/mood-shop/blob/master/asset/image/SS/main_page.png)
 
 
 ### HAPPY CODING :D
