@@ -3,8 +3,8 @@
 Halo semua, nama saya adalah zaki maulana, disini saya telah membuat aplikasi website bernama **MoodShop**. Yaitu aplikasi **E-Commerce** berisikan makanan dan minuman ringan. Jika kalian tertarik dengan aplikasi ini dan ingin mencobanya melihat hasilnya, silahkan lihat pada link berikut : [Mood-Shop](https://cocky-engelbart-8341cd.netlify.app/)
 
 ## Aplikasi ini menggunakan :
-- html
-- css
+- html5
+- css3
 - [boostrap](https://getbootstrap.com/)
 - [font-awesome](https://fontawesome.com/)
 
