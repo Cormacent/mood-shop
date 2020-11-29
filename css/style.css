@@ -188,18 +188,14 @@ header .title h4 {
     font-size: 1.5rem;
   }
 
-  main{
-    height: 100vh;
-  }
-
   .cart-section {
     background-color: white;
     display: block;
   }
 
   .cart-content {
-    position: sticky;
-    top: 0;
+    /* position: sticky; */
+    /* top: 0; */
   }
   .cart-mobile {
     display: none;
@@ -220,6 +216,9 @@ header .title h4 {
     height: auto;
   }
 
+  .card-fill{
+    height: 100vh;
+  }
   .card-fill .item {
     margin: 10px;
     width: 250px;
