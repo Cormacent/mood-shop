@@ -193,10 +193,6 @@ header .title h4 {
     display: block;
   }
 
-  .cart-content {
-    /* position: sticky; */
-    /* top: 0; */
-  }
   .cart-mobile {
     display: none;
   }
